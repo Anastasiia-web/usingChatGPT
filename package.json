@@ -1,0 +1,14 @@
+{
+  "name": "usingchatgpt",
+  "version": "1.0.0",
+  "description": "Automation tests created using ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasiia Ivashchenko",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  }
+}
